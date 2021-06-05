@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+h1{
+	text-align: center;
+	color: #ff0000;
+}
+#header{
+	background-color: #c6c6c6;
+	margin: 5px auto;
+	border-style: solid;
+	border-width: thin;
+	border-color: #c6c6c6;
+	border-radius: 10px;
+	width: 80%;
+}
+#container{
+	background-color: #c6c6c6;
+	margin: auto;
+	border-style: solid;
+	border-width: thin;
+	border-color: #c6c6c6;
+	border-radius: 10px;
+	width: 80%;
+}
